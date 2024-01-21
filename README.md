@@ -5,7 +5,7 @@
 
 
 
-## Screenshot
+## Screenshoot
 
 - **Tampilan Home**
 ![Tampilan Home](ss/1.png)>
